@@ -43,7 +43,7 @@
     "express": "^4.4.4",
     "express-session": "^1.5.1",
     "keyword-extractor": "0.0.9",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.21",
     "method-override": "^2.0.2",
     "retext": "^0.1.1",
     "retext-search": "^0.1.0",
